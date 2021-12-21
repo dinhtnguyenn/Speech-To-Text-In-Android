@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SpeechToTextAndroid</string>
+    <string name="tap_mic">Nhấn vào biểu tượng và nói</string>
+</resources>
